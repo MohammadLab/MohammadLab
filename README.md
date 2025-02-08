@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadlab&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadlab" /> </p>
 
-## Repositories
+<h2>Repositories</h2>
+<hr style="width: 200px; margin-left: 0;">
+
 
 [![🔍 View All Repositories](https://img.shields.io/badge/My%20Repositories-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadlab?tab=repositories)
 
